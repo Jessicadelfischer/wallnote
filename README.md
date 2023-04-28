@@ -1,46 +1,30 @@
-# Getting Started with Create React App
+Simple Message Board App / Aplicação Simples de Mural de Recados
+This is a simple message board application created for the front-end III module assessment in the START program by Growdev. / Esta é uma aplicação simples de mural de recados criada para a avaliação do módulo de front-end III no programa START da Growdev.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Description / Descrição
+The Simple Message Board App allows users to create, edit, and delete messages on a public message board. The app is built using React and styled with CSS. Users can interact with the app by creating a new message, editing an existing message, or deleting a message. / A aplicação de Mural de Recados permite que os usuários criem, editem e apaguem mensagens em um mural de recados público. O aplicativo é construído usando React e estilizado com CSS. Os usuários podem interagir com o aplicativo criando uma nova mensagem, editando uma mensagem existente ou apagando uma mensagem.
 
-## Available Scripts
+Screenshots / Capturas de Tela
+Screenshot 1
+Screenshot 2
 
-In the project directory, you can run:
+Technologies Used / Tecnologias Utilizadas
+React
+CSS
+JavaScript
+Tyscript
+Node.JS
 
-### `npm start`
+Installation / Instalação
+To install and run the project locally, follow these steps: / Para instalar e executar o projeto localmente, siga estes passos:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Clone the repository to your local machine. / Clone o repositório para sua máquina local.
+Install the dependencies by running npm install. / Instale as dependências executando npm install.
+Run the app using npm dev. / Execute o aplicativo usando npm dev.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+Contributions / Contribuições
+Contributions to this project are welcome. To contribute, please fork the repository, make your changes, and submit a pull request. / Contribuições para este projeto são bem-vindas. Para contribuir, por favor faça um fork do repositório, faça as alterações e envie uma solicitação de pull request.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+License / Licença
+This project is licensed under the MIT License. You are free to use and modify this project as you see fit. / Este projeto está licenciado sob a Licença MIT. Você tem a liberdade de usar e modificar este projeto como desejar.
